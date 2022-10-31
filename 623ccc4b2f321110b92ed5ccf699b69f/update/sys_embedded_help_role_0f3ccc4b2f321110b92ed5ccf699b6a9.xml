@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_533940_lgva_te_0.user" name="x_533940_lgva_te_0.user">fe3ccc4b2f321110b92ed5ccf699b6a8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 17:22:06</sys_created_on>
+        <sys_id>0f3ccc4b2f321110b92ed5ccf699b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fe3ccc4b2f321110b92ed5ccf699b6a8</sys_name>
+        <sys_package display_value="LGVA test App" source="x_533940_lgva_te_0">623ccc4b2f321110b92ed5ccf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LGVA test App">623ccc4b2f321110b92ed5ccf699b69f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0f3ccc4b2f321110b92ed5ccf699b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-31 17:22:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
