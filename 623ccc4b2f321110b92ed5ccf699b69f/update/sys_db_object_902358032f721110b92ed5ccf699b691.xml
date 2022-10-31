@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>lgva table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_533940_lgva_te_0_lgva_table</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-31 17:57:33</sys_created_on>
+        <sys_id>902358032f721110b92ed5ccf699b691</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>lgva table</sys_name>
+        <sys_package display_value="LGVA test App" source="x_533940_lgva_te_0">623ccc4b2f321110b92ed5ccf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LGVA test App">623ccc4b2f321110b92ed5ccf699b69f</sys_scope>
+        <sys_update_name>sys_db_object_902358032f721110b92ed5ccf699b691</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-31 17:57:33</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_533940_lgva_te_0.lgva_table_user" name="x_533940_lgva_te_0.lgva_table_user">8a5414032f721110b92ed5ccf699b6f3</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
